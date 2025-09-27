@@ -3,6 +3,10 @@
 This repository contains the source code and documentation for the **Backroads Project**.  
 The goal is to build a modern, responsive website/application that showcases travel, tours, and adventure experiences.
 
+## Project Details
+
+This project was made under a course from Janis Smilga from an Udemy Course focusing on Web development.
+
 ## Features
 
 - Fully responsive layout (mobile, tablet, desktop)
